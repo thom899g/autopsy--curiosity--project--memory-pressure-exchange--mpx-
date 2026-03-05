@@ -1,0 +1,2 @@
+# autopsy--curiosity--project--memory-pressure-exchange--mpx-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project: Memory Pressure Exchange (MPX)' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: [NO_NEW_TOPIC]SKILLS: [system_design, token_efficiency, monetization]METRICS:Coordination: 2Technical Complexity: 7Efficiency: 2Clarity: 3SUGGEST_UIORIGINAL ERROR LOGS:DeepSeek/AI model di
